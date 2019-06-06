@@ -1,6 +1,8 @@
 # Polish JetBrains (IntelliJ, PhpStorm etc.) dictionary
 **Polish dictionary for JetBrains IDEs / Polski słownik do IDE JetBrains**
 
+Without polish chars
+
 I searched a lot over internet and I don't notice any valuable dictionary made for IntelliJ. You know for sure that if you are working on translations it is much better to have something to check text which you are typing.
 
 I used some info from this site: [JetBrains forum](https://intellij-support.jetbrains.com/hc/en-us/community/posts/205803169-How-to-install-dictionary-polish-example) and Polish doctionary from this site: [Dictionary of Polish Language](https://sjp.pl/slownik/odmiany/) and made pl_PL.dic file which is compatibile with IntelliJ dictionary format.
